@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f11a2dc1-067a-4304-9ccb-1042af43dcae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/templates/accounts/signup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/templates/accounts/signup_complete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/timeline_photo/2020/07/13/pngwing.com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/timeline_photo/2020/07/13/pngwing.com_9AHYg99.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/timeline_photo/2020/07/13/pngwing.com_M65lqzx.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/timeline_photo/2020/07/13/pngwing.com_alRZafb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo/static/images/bu-k.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photo/static/images/instagramicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/accounts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/layout/base.html" afterDir="false" />
-    </list>
+    <list default="true" id="f11a2dc1-067a-4304-9ccb-1042af43dcae" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +22,11 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="7f6db2b5020cd76d2548beffca06683ba37067f1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
@@ -95,7 +83,7 @@
       <workItem from="1594621213560" duration="1362000" />
       <workItem from="1594622602971" duration="267000" />
       <workItem from="1594623039650" duration="3507000" />
-      <workItem from="1594628066838" duration="3748000" />
+      <workItem from="1594628066838" duration="3989000" />
     </task>
     <task id="LOCAL-00001" summary="first update">
       <created>1594623137738</created>
@@ -104,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594623137739</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first update">
+      <created>1594635688146</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594635688147</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
