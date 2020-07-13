@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f11a2dc1-067a-4304-9ccb-1042af43dcae" name="Default Changelist" comment="" />
+    <list default="true" id="f11a2dc1-067a-4304-9ccb-1042af43dcae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,12 +24,19 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="7f6db2b5020cd76d2548beffca06683ba37067f1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -83,7 +92,7 @@
       <workItem from="1594621213560" duration="1362000" />
       <workItem from="1594622602971" duration="267000" />
       <workItem from="1594623039650" duration="3507000" />
-      <workItem from="1594628066838" duration="3989000" />
+      <workItem from="1594628066838" duration="4229000" />
     </task>
     <task id="LOCAL-00001" summary="first update">
       <created>1594623137738</created>
@@ -99,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594635688147</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first update">
+      <created>1594635838778</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594635838778</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
